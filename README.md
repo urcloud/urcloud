@@ -2,6 +2,10 @@
 
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=epoint0101)](https://solved.ac/epoint0101)
+
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urcloud)
 
 <br>
