@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">&nbsp
 </div>
 
+<div aligh="center">
+  <img src=img src="https://img.shields.io/badge/keras-#D00000?style=for-the-badge&logo=keras&logoColor=white">&nbsp
+</div>
+
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
