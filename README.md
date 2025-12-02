@@ -10,7 +10,7 @@
 
 <br>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Backend Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a"/>&nbsp
@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">&nbsp
 </div>
 
+<br>
+
+<h3 align="center">✨ ML&DL Tech Stack ✨</h3>
+<div align="center">
 <div align="center">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">&nbsp
